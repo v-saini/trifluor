@@ -10,7 +10,7 @@
 
  - predictions_val_nn.xlsx - Validation set predictions on the NN model (tuned) trained on 5 descriptors
 
- - predictions_test_nn.xlsx - Test predictions on the NN model (tuned) trained on 5 descriptors
+ - predictions_test_nn.xlsx - Test set predictions on the NN model (tuned) trained on 5 descriptors
 
  - train_ids - Pickel file containing train indices
 
@@ -22,7 +22,7 @@
 
  - model.ipynb - Python code for model development (with default hyperparameters)
 
- - hyper_p_tuning.ipynb - Hyperparameter tuning for NN
+ - hyper_p_tuning.ipynb - Hyperparameter tuning for NN and final model using tuned parameters
 
  - nn.keras - Saved NN model with untuned parameters
 
